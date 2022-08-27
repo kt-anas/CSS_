@@ -1,13 +1,14 @@
-// var
-// let
-// const
-console.log("hello");
+ const a=10;
+
+ console.log(a);
+ 
+ 
+ 
 
 
-let las = "powder";
-let las1 = "chilli";
-console.log(las);
+ 
+ 
 
-console.log($number);
-let $number = "hellot";
+ 
+ 
  
